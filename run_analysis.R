@@ -64,7 +64,7 @@ create.tidy.dataset = function(df) {
     tidy
 }
 
-clean.data = function() {
+wash.data = function() {
     # First, merge the data sets
     dataMerged <- merge.datasets()
 

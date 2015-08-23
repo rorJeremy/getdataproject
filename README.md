@@ -12,5 +12,6 @@ Run the entire script by using the following command/function in the command lin
 
 ***Run Entire Script***
 ```bash
+> source("run_analysis.R")
 > wash.data()
 ```
